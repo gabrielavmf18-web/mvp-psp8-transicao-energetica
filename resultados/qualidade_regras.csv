@@ -1,0 +1,14 @@
+regra,ocorrencias
+"Unicidade: (subsistema, instante) duplicado no balanço",0
+"Unicidade: (subsistema, instante) duplicado no CMO",0
+Completude: horas faltantes no balanço (esperado 4 subsistemas × 43.824 h),0
+Completude: horas sem CMO após a junção,3552
+Completude: horas de CMO com menos de 2 meias-horas,0
+"Consistência: SIN ≠ soma dos subsistemas (carga, |dif| > 1 MW)",0
+Consistência: |geração − carga − intercâmbio| > 500 MW,24
+Conformidade: valores negativos de geração ou carga,0
+Acurácia: solar > 100 MW entre 0h e 4h (R3),252
+Acurácia: dias com solar ausente ao meio-dia (R5),0
+Acurácia: horas com CMO negativo,292
+Consistência temporal: quebra de nível da série solar em 2023-04-29 (R4),1
+Total de linhas excluídas das análises (flag_excluir_analise),252

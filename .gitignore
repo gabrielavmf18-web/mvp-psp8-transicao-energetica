@@ -1,0 +1,5 @@
+# dados brutos e intermediários não são versionados (ver README, seção 4)
+dados/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

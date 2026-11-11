@@ -1,0 +1,6 @@
+ano,horas,pct_horas_eol_sol_supera_carga,pct_horas_exportando,intercambio_medio_mw,exportacao_maxima_mw,eol_sol_sobre_carga_pct
+2021,8760,11.7,75.3,2763.0,9737.0,69.6
+2022,8760,32.8,88.4,3728.0,11760.0,83.7
+2023,8750,51.0,87.7,4272.0,13036.0,97.6
+2024,8779,62.4,85.6,5242.0,13102.0,107.6
+2025,8748,72.0,92.9,6261.0,13592.0,117.0

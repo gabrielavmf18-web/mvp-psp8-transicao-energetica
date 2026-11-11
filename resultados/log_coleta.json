@@ -1,0 +1,62 @@
+[
+  {
+    "arquivo": "BALANCO_ENERGIA_SUBSISTEMA_2021.csv",
+    "url": "https://ons-aws-prod-opendata.s3.amazonaws.com/dataset/balanco_energia_subsistema_ho/BALANCO_ENERGIA_SUBSISTEMA_2021.csv",
+    "bytes": 5101035,
+    "coletado_em": "2026-10-21T21:47:41"
+  },
+  {
+    "arquivo": "BALANCO_ENERGIA_SUBSISTEMA_2022.csv",
+    "url": "https://ons-aws-prod-opendata.s3.amazonaws.com/dataset/balanco_energia_subsistema_ho/BALANCO_ENERGIA_SUBSISTEMA_2022.csv",
+    "bytes": 5127029,
+    "coletado_em": "2026-10-21T21:47:41"
+  },
+  {
+    "arquivo": "BALANCO_ENERGIA_SUBSISTEMA_2023.csv",
+    "url": "https://ons-aws-prod-opendata.s3.amazonaws.com/dataset/balanco_energia_subsistema_ho/BALANCO_ENERGIA_SUBSISTEMA_2023.csv",
+    "bytes": 4530043,
+    "coletado_em": "2026-10-21T21:47:41"
+  },
+  {
+    "arquivo": "BALANCO_ENERGIA_SUBSISTEMA_2024.csv",
+    "url": "https://ons-aws-prod-opendata.s3.amazonaws.com/dataset/balanco_energia_subsistema_ho/BALANCO_ENERGIA_SUBSISTEMA_2024.csv",
+    "bytes": 4569407,
+    "coletado_em": "2026-10-21T21:47:41"
+  },
+  {
+    "arquivo": "BALANCO_ENERGIA_SUBSISTEMA_2025.csv",
+    "url": "https://ons-aws-prod-opendata.s3.amazonaws.com/dataset/balanco_energia_subsistema_ho/BALANCO_ENERGIA_SUBSISTEMA_2025.csv",
+    "bytes": 4077517,
+    "coletado_em": "2026-10-21T21:47:41"
+  },
+  {
+    "arquivo": "CMO_SEMIHORARIO_2021.csv",
+    "url": "https://ons-aws-prod-opendata.s3.amazonaws.com/dataset/cmo_tm/CMO_SEMIHORARIO_2021.csv",
+    "bytes": 2932906,
+    "coletado_em": "2026-10-21T21:47:45"
+  },
+  {
+    "arquivo": "CMO_SEMIHORARIO_2022.csv",
+    "url": "https://ons-aws-prod-opendata.s3.amazonaws.com/dataset/cmo_tm/CMO_SEMIHORARIO_2022.csv",
+    "bytes": 2651636,
+    "coletado_em": "2026-10-21T21:47:41"
+  },
+  {
+    "arquivo": "CMO_SEMIHORARIO_2023.csv",
+    "url": "https://ons-aws-prod-opendata.s3.amazonaws.com/dataset/cmo_tm/CMO_SEMIHORARIO_2023.csv",
+    "bytes": 2250619,
+    "coletado_em": "2026-10-21T21:47:41"
+  },
+  {
+    "arquivo": "CMO_SEMIHORARIO_2024.csv",
+    "url": "https://ons-aws-prod-opendata.s3.amazonaws.com/dataset/cmo_tm/CMO_SEMIHORARIO_2024.csv",
+    "bytes": 2420627,
+    "coletado_em": "2026-10-21T21:47:41"
+  },
+  {
+    "arquivo": "CMO_SEMIHORARIO_2025.csv",
+    "url": "https://ons-aws-prod-opendata.s3.amazonaws.com/dataset/cmo_tm/CMO_SEMIHORARIO_2025.csv",
+    "bytes": 2483299,
+    "coletado_em": "2026-10-21T21:47:41"
+  }
+]

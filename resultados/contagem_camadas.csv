@@ -1,0 +1,9 @@
+tabela,linhas
+bronze_balanco,219120
+bronze_cmo,343488
+silver_balanco (sem SIN),175296
+silver_cmo_horario,171744
+silver_dia_solar_ausente,0
+fato_balanco_horario,175296
+dim_subsistema,4
+dim_tempo,43824

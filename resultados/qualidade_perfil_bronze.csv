@@ -1,0 +1,14 @@
+tabela,atributo,registros,nulos,distintos,minimo,maximo,nao_numericos
+bronze_balanco,id_subsistema,219120,0,5,N,SIN,
+bronze_balanco,nom_subsistema,219120,0,5,NORDESTE,SUL,
+bronze_balanco,din_instante,219120,0,43824,2021-01-01 00:00:00,2025-12-31 23:00:00,
+bronze_balanco,val_gerhidraulica,219120,0,218747,275.27,87875.71,0.0
+bronze_balanco,val_gertermica,219120,0,217253,19.0,22751.1,0.0
+bronze_balanco,val_gereolica,219120,0,176396,0.0,25064.76,0.0
+bronze_balanco,val_gersolar,219120,0,117059,0.0,42551.69,0.0
+bronze_balanco,val_carga,219120,0,218642,1364.25,106148.66,0.0
+bronze_balanco,val_intercambio,219120,0,193127,-16172.03,14146.51,0.0
+bronze_cmo,id_subsistema,343488,0,4,N,SE,
+bronze_cmo,nom_subsistema,343488,0,4,NORDESTE,SUL,
+bronze_cmo,din_instante,343488,0,85872,2021-01-01 00:00:00,2025-12-31 23:30:00,
+bronze_cmo,val_cmo,343488,0,72550,-39.24,11505.02,0.0
